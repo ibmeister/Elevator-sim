@@ -351,7 +351,7 @@ public class BasicElevator {
                     }
                 }
                 
-                // See whomsoever's time matches with elevator and add them if
+                // See whose time matches with elevator and add them if
                 // they are on the same floor
 
                 for (int i = 0; i < this.peopleList.size(); i++) {
